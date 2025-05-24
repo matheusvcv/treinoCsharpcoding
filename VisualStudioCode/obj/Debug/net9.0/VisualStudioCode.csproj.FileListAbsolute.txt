@@ -12,3 +12,4 @@ C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\VisualStudioCode\obj\De
 C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\VisualStudioCode\obj\Debug\net9.0\VisualStudioCode.pdb
 C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\VisualStudioCode\obj\Debug\net9.0\VisualStudioCode.genruntimeconfig.cache
 C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\VisualStudioCode\obj\Debug\net9.0\ref\VisualStudioCode.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\VisualStudioCode\obj\Debug\net9.0\VisualStudioCode.sourcelink.json
