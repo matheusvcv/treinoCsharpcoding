@@ -4,6 +4,24 @@ public class Program
 {
     public static void Main()
     {
-        Console.WriteLine("Está funcionando!");
+        string myName = "Matheus";
+
+        Console.WriteLine(myName);
+
+        int number = 27;
+
+        Console.WriteLine(number);
+
+        double numberDouble = 27.5;
+
+        Console.WriteLine(numberDouble);
+
+        char character = 'a';
+
+        Console.WriteLine(character);
+
+        bool boolean = false;
+
+        Console.WriteLine(boolean);
     }
 }
