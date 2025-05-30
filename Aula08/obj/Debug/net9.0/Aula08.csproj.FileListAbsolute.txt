@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula08\obj\Debug\net9.0\Aula08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula08\obj\Debug\net9.0\Aula08.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula08\obj\Debug\net9.0\Aula08.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula08\obj\Debug\net9.0\Aula08.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula08\obj\Debug\net9.0\Aula08.sourcelink.json
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula08\bin\Debug\net9.0\Aula08.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula08\bin\Debug\net9.0\Aula08.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula08\bin\Debug\net9.0\Aula08.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula08\bin\Debug\net9.0\Aula08.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula08\bin\Debug\net9.0\Aula08.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula08\obj\Debug\net9.0\Aula08.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula08\obj\Debug\net9.0\refint\Aula08.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula08\obj\Debug\net9.0\Aula08.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula08\obj\Debug\net9.0\Aula08.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula08\obj\Debug\net9.0\ref\Aula08.dll
