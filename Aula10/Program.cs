@@ -6,49 +6,67 @@ public class Program
 {
     public static void Main()
     {
-        Console.WriteLine("=====Calculadora Simples=====");
+        bool automatic = true;
 
-        Console.WriteLine("\nDigite um número: ");
-        double num1 = Convert.ToDouble(Console.ReadLine());
-
-        Console.WriteLine("Escolha uma operação com base no número:");
-        Console.WriteLine("1 - Soma (+);");
-        Console.WriteLine("2 - Subtração (-);");
-        Console.WriteLine("3 - Multiplicação (*);");
-        Console.WriteLine("4 - Divisão (/);");
-
-        int operacao = Convert.ToInt32(Console.ReadLine());
-        
-        Console.WriteLine("\nDigite outro número: ");
-        double num2 = Convert.ToDouble(Console.ReadLine());
-
-        double result = 0;
-
-        if (operacao == 1)
+        while (automatic == true)
         {
-            result = num1 + num2;
+            Console.WriteLine("\n=====Calculadora Simples=====");
 
-        } else if (operacao == 2)
-        {
-            result = num1 - num2;
+            Console.WriteLine("\nDigite um número: ");
+            double num1 = Convert.ToDouble(Console.ReadLine());
 
-        } else if (operacao == 3)
-        {
-           result = num1 * num2;
+            Console.WriteLine("Escolha uma operação com base no número:");
+            Console.WriteLine("1 - Soma (+);");
+            Console.WriteLine("2 - Subtração (-);");
+            Console.WriteLine("3 - Multiplicação (*);");
+            Console.WriteLine("4 - Divisão (/);");
 
-        } else if (operacao == 4)
-        {
-            if (num2 != 0)
+            int operacao = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("\nDigite outro número: ");
+            double num2 = Convert.ToDouble(Console.ReadLine());
+
+            double result = 0;
+
+            if (operacao == 1)
             {
-                result = num1 / num2;
+                result = num1 + num2;
+
             }
-            else
+            else if (operacao == 2)
             {
-                Console.WriteLine("Não é possível dividir um número por 0.");
-                return;
+                result = num1 - num2;
+
             }
+            else if (operacao == 3)
+            {
+                result = num1 * num2;
+
+            }
+            else if (operacao == 4)
+            {
+                if (num2 != 0)
+                {
+                    result = num1 / num2;
+                }
+                else
+                {
+                    Console.WriteLine("Não é possível dividir um número por 0.");
+
+                }
+            }
+
+            Console.WriteLine("\n O resultado é: " + result);
+
+            Console.WriteLine("\n Você gostaria de realizar novas operações? (y/n)");
+
+            string continuar = Console.ReadLine();
+
+            if (continuar != "y")
+            {
+                automatic = false;
+            }     
         }
-
-        Console.WriteLine("\n O resultado é: " + result);
+        
     }
 }
