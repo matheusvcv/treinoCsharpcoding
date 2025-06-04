@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula12\Aula12a\obj\Debug\net9.0\Aula12a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula12\Aula12a\obj\Debug\net9.0\Aula12a.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula12\Aula12a\obj\Debug\net9.0\Aula12a.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula12\Aula12a\obj\Debug\net9.0\Aula12a.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula12\Aula12a\obj\Debug\net9.0\Aula12a.sourcelink.json
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula12\Aula12a\bin\Debug\net9.0\Aula12a.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula12\Aula12a\bin\Debug\net9.0\Aula12a.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula12\Aula12a\bin\Debug\net9.0\Aula12a.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula12\Aula12a\bin\Debug\net9.0\Aula12a.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula12\Aula12a\bin\Debug\net9.0\Aula12a.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula12\Aula12a\obj\Debug\net9.0\Aula12a.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula12\Aula12a\obj\Debug\net9.0\refint\Aula12a.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula12\Aula12a\obj\Debug\net9.0\Aula12a.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula12\Aula12a\obj\Debug\net9.0\Aula12a.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula12\Aula12a\obj\Debug\net9.0\ref\Aula12a.dll
