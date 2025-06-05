@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula15\bin\Debug\net9.0\Aula15.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula15\bin\Debug\net9.0\Aula15.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula15\bin\Debug\net9.0\Aula15.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula15\bin\Debug\net9.0\Aula15.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula15\bin\Debug\net9.0\Aula15.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula15\obj\Debug\net9.0\Aula15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula15\obj\Debug\net9.0\Aula15.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula15\obj\Debug\net9.0\Aula15.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula15\obj\Debug\net9.0\Aula15.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula15\obj\Debug\net9.0\Aula15.sourcelink.json
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula15\obj\Debug\net9.0\Aula15.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula15\obj\Debug\net9.0\refint\Aula15.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula15\obj\Debug\net9.0\Aula15.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula15\obj\Debug\net9.0\Aula15.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula15\obj\Debug\net9.0\ref\Aula15.dll
