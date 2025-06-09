@@ -47,14 +47,6 @@ public class Program
 
         foreach (int inteiro in inteiros)
         {
-            Console.WriteLine(inteiro);
-        }
 
-        int i = 0;
-
-        while (i <= inteirios[2])
-        {
-            Console.WiriteLine(i);
-        }
     }
 }
