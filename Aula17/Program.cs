@@ -64,12 +64,26 @@ public class Program
         Console.WriteLine(separator);
 
         lordes.Clear();
-       
+
         foreach (string lorde in lordes)
         {
             Console.WriteLine(lorde);
         }
 
         Console.WriteLine(separator);
+
+        List<int> inteiros = new List<int>();
+
+        inteiros.Add(2001);
+        inteiros.Add(2002);
+        inteiros.Add(2003);
+        inteiros.Add(2004);
+        inteiros.Add(2005);
+        inteiros.Add(2006);
+
+        foreach (int inteiro in inteiros)
+        {
+            Console.WriteLine(inteiro);
+        }
     }
 }
