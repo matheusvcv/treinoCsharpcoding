@@ -24,6 +24,8 @@ public class Program
 
         File.AppendAllText(filePath, conteudoAdicional2);
 
-        File.ReadAllText(filePath);
+        string ConteudoLido = File.ReadAllText(filePath);
+
+       Console.WriteLine(ConteudoLido);
     }
 }
