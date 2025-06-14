@@ -45,8 +45,7 @@ public class Program
 
         Console.WriteLine(separator);
 
-        foreach (int inteiro in inteiros)
-        {
+
 
     }
 }
