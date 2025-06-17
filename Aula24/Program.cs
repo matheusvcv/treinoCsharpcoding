@@ -9,15 +9,8 @@ public class Program
 
         int age = Convert.ToInt32(Console.ReadLine());
 
-        bool IfLegalPerson = person.IfLegalPerson(age);
+        string response = person.IfLegalPersonRefactor(age);
 
-        if (IfLegalPerson == true)
-        {
-            Console.WriteLine("A pessoa é menor de idade!");
-        }
-        else
-        {
-            Console.WriteLine("A pessoa é maior de idade!");
-        }
+        Console.WriteLine(response);
     }
 }
