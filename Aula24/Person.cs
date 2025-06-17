@@ -32,4 +32,20 @@ public class Person
             return result;
         }
     }
+
+    public string IfLegalPersonRefactorName(int age, string name)
+    {
+        string result = string.Empty;
+
+        if (age >= 18)
+        {
+            result = "O(a) " + name + " é maior de idade.";
+            return result;
+        }
+        else
+        {
+            result = "O(a) " + name + " é menor de idade.";
+            return result;
+        }
+    }
 }
