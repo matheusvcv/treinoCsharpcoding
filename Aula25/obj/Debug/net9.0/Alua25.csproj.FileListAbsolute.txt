@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula25\obj\Debug\net9.0\Alua25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula25\obj\Debug\net9.0\Alua25.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula25\obj\Debug\net9.0\Alua25.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula25\obj\Debug\net9.0\Alua25.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula25\obj\Debug\net9.0\Alua25.sourcelink.json
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula25\bin\Debug\net9.0\Alua25.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula25\bin\Debug\net9.0\Alua25.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula25\bin\Debug\net9.0\Alua25.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula25\bin\Debug\net9.0\Alua25.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula25\bin\Debug\net9.0\Alua25.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula25\obj\Debug\net9.0\Alua25.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula25\obj\Debug\net9.0\refint\Alua25.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula25\obj\Debug\net9.0\Alua25.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula25\obj\Debug\net9.0\Alua25.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula25\obj\Debug\net9.0\ref\Alua25.dll

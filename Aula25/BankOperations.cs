@@ -9,7 +9,7 @@ public class BankOperations()
         Console.WriteLine($"\nO seu saldo é R${balance}");
     }
 
-    public void Depoisit()
+    public void Deposit()
     {
         Console.WriteLine("Informe o valor a ser depositado:");
         if (decimal.TryParse(Console.ReadLine(), out decimal amount) && amount > 0)
