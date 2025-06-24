@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula27\obj\Debug\net9.0\Aula27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula27\obj\Debug\net9.0\Aula27.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula27\obj\Debug\net9.0\Aula27.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula27\obj\Debug\net9.0\Aula27.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula27\obj\Debug\net9.0\Aula27.sourcelink.json
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula27\bin\Debug\net9.0\Aula27.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula27\bin\Debug\net9.0\Aula27.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula27\bin\Debug\net9.0\Aula27.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula27\bin\Debug\net9.0\Aula27.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula27\bin\Debug\net9.0\Aula27.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula27\obj\Debug\net9.0\Aula27.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula27\obj\Debug\net9.0\refint\Aula27.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula27\obj\Debug\net9.0\Aula27.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula27\obj\Debug\net9.0\Aula27.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\CSharpProjetos\Aula27\obj\Debug\net9.0\ref\Aula27.dll
